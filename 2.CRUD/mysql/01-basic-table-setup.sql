@@ -1,0 +1,5 @@
+-- CREATE DATABASE sales_example;
+
+CREATE TABLE sales(
+    id INT PRIMARY KEY AUTO_INCREMENT,
+)
