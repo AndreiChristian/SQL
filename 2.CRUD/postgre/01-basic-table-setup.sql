@@ -1,1 +1,2 @@
 -- CREATE TABLE sales_example
+CREATE TABLE sales (id SERIAL PRIMARY KEY,)
